@@ -3,6 +3,8 @@
 ## Overview:
 Explore mammalian sleep patterns using the "Sleep in Mammals" dataset, covering 39 species across 13 orders. Investigate key variables such as body weight, brain weight, sleep stages, life span, gestation, predation risk, exposure, and danger.
 
+![image](https://github.com/lacomaofficial/Sleep-Harmony-Study/assets/132283879/97ca850a-9c82-4c24-9870-579751517e11)
+
 ## Data Exploration and Functions:
 - **Libraries Used:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Plotly.
 - **Data Source:** "mammals.csv."
@@ -48,5 +50,5 @@ Explore mammalian sleep patterns using the "Sleep in Mammals" dataset, covering 
 
 In summary, our XGBoost model predicts sleep duration, unveiling nuanced relationships between biological factors and mammalian sleep. The study lays the groundwork for deeper exploration into the intricate dynamics of sleep in different species.
 
-![image](https://github.com/lacomaofficial/Sleep-Harmony-Study/assets/132283879/97ca850a-9c82-4c24-9870-579751517e11)
+
 
