@@ -7,7 +7,7 @@ Explore mammalian sleep patterns using the "Sleep in Mammals" dataset, covering 
 
 ## Data Exploration and Functions:
 - **Libraries Used:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Plotly.
-- **Data Source:** "mammals.csv."
+- **Data Source:** "mammals.csv." https://www.science.org/doi/10.1126/science.982039
 - **Exploration:** Import, impute missing values, and calculate mutual information scores.
 - **Visualizations:** Seaborn for distribution and correlation, Plotly for interactive exploration.
 
